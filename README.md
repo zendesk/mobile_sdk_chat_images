@@ -1,1 +1,1 @@
-# mobile_sdk_chat_images
+Image repository for Chat SDK docs
